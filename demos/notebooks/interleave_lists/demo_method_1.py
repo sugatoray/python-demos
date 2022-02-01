@@ -23,3 +23,6 @@ c = [8, 9, 10, 11, 12]
 out = [1, 4, 8, 2, 5, 9, 3, 6, 10, 7, 11, 12]
 
 assert out == interleave([a, b, c])
+
+# To run this file, run:
+# python demo_method_1.py
